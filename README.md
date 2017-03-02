@@ -1,2 +1,2 @@
 # GoalieBot
-This was our compsci-630 final. The robot, which we called 'the goaliebot', would track a green vex ball and intercept its path. It uses a simple linear regression with a bit of that zesty computer vision. Fun stuff really!
+This was our compsci-630 winter term final. The robot, which we called 'the goaliebot', would track a green vex ball and intercept its path. It uses a simple linear regression with a bit of that zesty computer vision. Fun stuff really! <br> There may be some pictures missing in the python notebook. This is because somebody...\*cough\* jocelyn\*cough\*...forgot to send them to me. This one worked most of the time! I think we got a new Neuer in storage somewhere.
